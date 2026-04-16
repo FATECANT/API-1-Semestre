@@ -51,3 +51,10 @@ Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focad
 | 15   | Alta      |     
 
 # Registro das Sprints
+| Sprint            | Previsão   | Status   | Histórico |
+|-------------------|------------|----------|-----------|
+| 00                | 24/03/2026 | Concluído  | [MVP]()  |
+| 01                | 23/04/2026 | Em andamento  | [MVP]()  |
+| 02                | 14/05/2026 | a fazer  | [MVP]()  |
+| 03                | 04/06/2025 | a fazer  | [MVP]()  |
+| Feira de Soluções | 18/06/2026 | a fazer  | [MVP]()  |
