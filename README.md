@@ -31,5 +31,23 @@ Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focad
  | ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
  | ![DataAnalysis](https://img.shields.io/badge/DAX%20(Data%20Analysis%20Expressions)-blue?style=for-the-badge&logo=powerbi&logoColor=white) |  |
 # Product backlog
-# Competências desenvolvidas
+# Product Backlog
+| Rank | Prioridade | User Story                                                                                         | Estimativa | Sprint |
+|------|------------|----------------------------------------------------------------------------------------------------|------------|--------|
+| 1    | Alta       |                                                                       | 3          | 1      |
+| 2    | Alta       |                                                                      | 3          | 1      |
+| 3    | Alta      |                                                                                 | 1          | 1      |
+| 4    | Média      |                                                                                                             | 3          | 1      |
+| 5    | Baixa      |                                                                                                                 | 5          | 1      |
+| 6    | Alta       |                                                                                                                                  | 2          | 2      |
+| 7    | Alta       |                                                                                                                 | 2          | 2      |
+| 8    | Alta       |                           | 2          | 2      |
+| 9    | Média      |                    | 2          | 2      |
+| 10   | Baixa      |                                                                                                                                  | 1          | 2      |
+| 11   | Baixa      |                                                                                                             | 2          | 2      |
+| 12   | Alta      |             | 2          | 3      |
+| 13   | Alta      |           | 3          | 3      |
+| 14   | Alta      |                                                                   | 2          | 3      |
+| 15   | Alta      |     
+
 # Registro das Sprints
