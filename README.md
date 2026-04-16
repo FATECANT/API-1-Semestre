@@ -26,7 +26,7 @@ Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focad
 | Tecnologias Específicas/Apoio | Tecnologias da Informação |
  |---------------------------------------------------------------------------------------------------------------|---------|
  | ![image alt](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) | ![image alt](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) |
- | ![image alt](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | ![image alt](https://www.ifmg.edu.br/ourobranco/ensino-remoto-emergencial/microsoft-teams-logo/@@images/image.png) |
+ | ![image alt](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | ![image alt]() |
  | ![image alt](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) | ![image alt](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) |
  | ![image alt](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) | ![image alt](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
  | ![image alt](https://img.shields.io/badge/DAX%20(Data%20Analysis%20Expressions)-blue?style=for-the-badge&logo=powerbi&logoColor=white) |  |
