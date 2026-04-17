@@ -45,9 +45,8 @@ Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focad
 | 10                | baixa |             |  1  |
 | 11                | alta  |             |  1  |
 | 12                | media |             |  1  |
-| 33                | baixa |             |  1  |
-| 14                | alta  |             |  1  |
-| 15                | baixa |             |  1  |
+| 13                | baixa |             |  1  |
+
 
 
 # Registro das Sprints
