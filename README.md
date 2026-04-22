@@ -32,21 +32,21 @@ O objetivo do projeto é desenvolver um site que ofereça um painel com dados de
  | ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
  | ![DataAnalysis](https://img.shields.io/badge/DAX%20(Data%20Analysis%20Expressions)-blue?style=for-the-badge&logo=powerbi&logoColor=white) |  |
 # Product backlog
-| Clasificação      | Prioridade   | Historia do Usuario   | Sprint |
-|-------------------|------------|----------|-----------|
-| 01                | alta  |             |  1  |
-| 02                | media |             |  1  |
-| 03                | baixa |             |  1  |
-| 04                | alta  |             |  1  |
-| 05                | baixa |             |  1  |
-| 06                | alta  |             |  1  |
-| 07                | media |             |  1  |
-| 08                | baixa |             |  1  |
-| 09                | alta  |             |  1  |
-| 10                | baixa |             |  1  |
-| 11                | alta  |             |  1  |
-| 12                | media |             |  1  |
-| 13                | baixa |             |  1  |
+|Rank|Propriedade|User Story                                                                                                                                                                                                                                    |Sprint|Requisito do Parceiro |
+|----|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|----------------------|
+|1   |Alta       |Como gestor público, quero acessar os dados do ComexStat de 2024 a 2025 sobre as importações e exportações dos municípios do estado de São Paulo estruturados em um DataFrame.                                                                |1     |RN.P.1 RN.P.6         |
+|2   |Alta       |Como gestor público, quero que os dados sejam tratados no GoogleColab, através da linguagem de programação Python, contendo a remoção de valores nulos e a padronização de nomes dos municípios                                               |1     |RN.P.2 RN.P.6         |
+|3   |Alta       |Como gestor público, quero um dashboard dinâmico no Power BI que tenha dois painéis, um para os dados de importação e outro para exportação.                                                                                                  |1     |RN.P.3 RN.P.5 RN.P.6  |
+|4   |Alta       |Como gestor público, quero um mapa interativo relacionando as importações e exportações, um ranking de municípios em gráfico de barras horizontais e um gráfico de rosca com a porcentagem dos produtos mais exportados/importados.           |1     |RN.P.3 RN.P.5 RN.P.6  |
+|5   |Alta       |Como gestor público, quero um dashboard que permita a visualização dos dados já tratados, sendo possível aplicar um filtro que os separe por ano, trimestre, municípios, SH4, valor FOB e peso (KG).                                          |1     |RN.P.3 RN.P.5 RN.P.6  |
+|6   |Alta       |Como gestor público, quero que o backlog e as sprints sejam versionadas no GitHub para um melhor acompanhamento do desenvolvimento do projeto.                                                                                                |1     |RN.P.4 RN.P.6         |
+|7   |Média      |Como gestor público, quero uma janela no canto superior esquerdo com a cotação do dólar que atualize conforme o período selecionado.                                                                                                          |2     |RN.P.3 RN.P. 5 RN.P. 6|
+|8   |Média      |Como gestor público, quero visualizar através de símbolos e porcentagem o principal modal de transporte utilizado na importação e exportação do município selecionado.                                                                        |2     |RN.P.3 RN.P. 5 RN.P. 6|
+|9   |Média      |Como gestor público, quero um gráfico de barras horizontais empilhadas que mostre a corrente (USD) por município e um gráfico de rosca e porcentagem dos principais produtos exportados e importados selecionados atrav�s do filtro escolhido.|2     |RN.P.3 RN.P. 5 RN.P. 6|
+|10  |Alta       |Como gestor público, quero visualizar o dashboard completo com todos os dados de importação e exportação de 2020 a 2025                                                                                                                       |3     |RN.P.3 RN.P. 5 RN.P. 6|
+|11  |Alta       |Como gestor público, quero um painel que mostre o balanço comercial do estado de São Paulo e seus municípios, com o valor das importações e exportações tanto em dólar quanto em real.                                                        |3     |RN.P.3 RN.P. 5 RN.P. 6|
+|12  |Baixa      |Como gestor público, quero uma aba de informações, que contenha notícias de acontecimentos que ocorreram nesse período que justifique o aumento ou declínio da compra ou venda de certo produto.                                              |3     |RN.P.3 RN.P. 5 RN.P. 6|
+
 
 
 
