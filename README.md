@@ -1,15 +1,22 @@
 # Assessoria Nacional de Tecnologia (ANT)
+
+![logo_ANT]()
+
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
+
 # Índice
 * [Objetivo do projeto](#Objetivo-do-projeto)
 * [Equipe](#Equipe)
 * [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
 * [Backlog do produto](#Product-backlog)
 * [Registro das Sprints](#Registro-das-sprints)
+
 # Projeto (API)
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
+
 # Objetivo do projeto
 O objetivo do projeto é desenvolver um site que ofereça um painel com dados de exportação e importação do estado de São Paulo. A plataforma permitirá a comparação detalhada entre as cidades paulistas, centralizando essas informações para facilitar a visualização. 
+
 # Equipe
 |    Função     |             Nome                      |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -31,6 +38,7 @@ O objetivo do projeto é desenvolver um site que ofereça um painel com dados de
  | ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) | ![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) |
  | ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
  | ![DataAnalysis](https://img.shields.io/badge/DAX%20(Data%20Analysis%20Expressions)-blue?style=for-the-badge&logo=powerbi&logoColor=white) |  |
+
 # Product backlog
 |Rank|Propriedade|User Story                                                                                                                                                                                                                                    |Sprint|Requisito do Parceiro |
 |----|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|----------------------|
