@@ -1,7 +1,7 @@
 # Assessoria Nacional de Tecnologia (ANT)
 
 <div align="center">
-<img src="https://github.com/lucasbarros8439/Teste-de-Markdown/blob/main/Logo%20da%20ANT.jpeg?raw=true" width="400px" />
+<img src="https://github.com/lucasbarros8439/Teste-de-Markdown/blob/main/Logo%20da%20ANT.jpeg?raw=true" width="300px" />
 </div>
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
@@ -45,10 +45,10 @@ O objetivo do projeto é desenvolver um site que ofereça um painel com dados de
 |Rank|Propriedade|User Story                                                                                                                                                                                                                                    |Sprint|Requisito do Parceiro |
 |----|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|----------------------|
 |1   |Alta       |Como gestor público, quero acessar os dados do ComexStat de 2024 a 2025 sobre as importações e exportações dos municípios do estado de São Paulo estruturados em um DataFrame.                                                                |1     |RN.P.1 RN.P.6         |
-|2   |Alta       |Como gestor público, quero que os dados sejam tratados no GoogleColab, através da linguagem de programação Python, contendo a remoção de valores nulos e a padronização de nomes dos municípios                                               |1     |RN.P.2 RN.P.6         |
-|3   |Alta       |Como gestor público, quero um dashboard dinâmico no Power BI que tenha dois painéis, um para os dados de importação e outro para exportação.                                                                                                  |1     |RN.P.3 RN.P.5 RN.P.6  |
+|2   |Alta       |Como gestor público, quero que os dados sejam tratados no GoogleColab, através da linguagem de programação Python e a biblioteca Pandas, contendo a remoção de valores nulos e a padronização de nomes dos municípios.                                               |1     |RN.P.2 RN.P.6         |
+|3   |Alta       |Como gestor público, quero uma visualização do protótipo que tenha páginas com os dados de importação, exportação, comparativo dos municípios e a cotação do dólar em tempo real.                                                                                                  |1     |RN.P.3 RN.P.5 RN.P.6  |
 |4   |Alta       |Como gestor público, quero um mapa interativo relacionando as importações e exportações, um ranking de municípios em gráfico de barras horizontais e um gráfico de rosca com a porcentagem dos produtos mais exportados/importados.           |1     |RN.P.3 RN.P.5 RN.P.6  |
-|5   |Alta       |Como gestor público, quero um dashboard que permita a visualização dos dados já tratados, sendo possível aplicar um filtro que os separe por ano, trimestre, municípios, SH4, valor FOB e peso (KG).                                          |1     |RN.P.3 RN.P.5 RN.P.6  |
+|5   |Alta       |Como gestor público, quero um dashboard que permita a filtragem por ano, trimestre, municípios, SH4, valor FOB e peso (KG).                                          |1     |RN.P.3 RN.P.5 RN.P.6  |
 |6   |Alta       |Como gestor público, quero que o backlog e as sprints sejam versionadas no GitHub para um melhor acompanhamento do desenvolvimento do projeto.                                                                                                |1     |RN.P.4 RN.P.6         |
 |7   |Média      |Como gestor público, quero uma janela no canto superior esquerdo com a cotação do dólar que atualize conforme o período selecionado.                                                                                                          |2     |RN.P.3 RN.P. 5 RN.P. 6|
 |8   |Média      |Como gestor público, quero visualizar através de símbolos e porcentagem o principal modal de transporte utilizado na importação e exportação do município selecionado.                                                                        |2     |RN.P.3 RN.P. 5 RN.P. 6|
