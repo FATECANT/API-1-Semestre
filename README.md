@@ -17,7 +17,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
 
 # Objetivo do projeto
-O objetivo do projeto é desenvolver um site que ofereça um painel com dados de exportação e importação do estado de São Paulo. A plataforma permitirá a comparação detalhada entre as cidades paulistas, centralizando essas informações para facilitar a visualização. 
+O objetivo do projeto é desenvolver um dashboard através do PowerBI que permita a visualização dos dados de exportação e importação do estado de São Paulo e seus municípios. A plataforma permitirá a comparação detalhada entre as cidades paulistas, centralizando essas informações para facilitar a visualização. 
 
 # Equipe
 |    Função     |             Nome                      |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
