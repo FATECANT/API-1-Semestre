@@ -65,6 +65,6 @@ O objetivo do projeto é desenvolver um site que ofereça um painel com dados de
 |-------------------|------------|----------|-----------|
 | 00                | 24/03/2026 | Concluído  | [MVP](https://drive.google.com/file/d/1ofDE4DWbN0kScPLIUgUK9WU5WoJSKGmA/view?usp=sharing)  |
 | 01                | 23/04/2026 | Em andamento  | [MVP]()  |
-| 02                | 14/05/2026 | a fazer  | [MVP]()  |
-| 03                | 04/06/2025 | a fazer  | [MVP]()  |
-| Feira de Soluções | 18/06/2026 | a fazer  | [MVP]()  |
+| 02                | 14/05/2026 | A fazer  | [MVP]()  |
+| 03                | 04/06/2025 | A fazer  | [MVP]()  |
+| Feira de Soluções | 18/06/2026 | A fazer  | [MVP]()  |
