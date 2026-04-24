@@ -60,8 +60,7 @@
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)
-- Vídeo de Entendimento [Vídeo](https://drive.google.com/file/d/1ofDE4DWbN0kScPLIUgUK9WU5WoJSKGmA/view)  
+- [Protótipo do PowerBI](
+- [Código do Colab](https://colab.research.google.com/drive/1IhWYBs9Uk-eRn3Abh0j8FSR_QxOYdNL9#scrollTo=cb61be8e)
+- [Vídeo de Entendimento](https://drive.google.com/file/d/1ofDE4DWbN0kScPLIUgUK9WU5WoJSKGmA/view)  
 
