@@ -65,4 +65,4 @@ O objetivo do projeto é desenvolver um dashboard através do PowerBI que permit
 | 01                | 23/04/2026 | Concluído  | [MVP](https://github.com/FATECANT/API-1-Semestre/tree/main/MVP's)  |
 | 02                | 14/05/2026 | Em andamento  | [MVP](https://github.com/FATECANT/API-1-Semestre/tree/main/MVP's)  |
 | 03                | 04/06/2025 | A fazer  | [MVP](https://github.com/FATECANT/API-1-Semestre/tree/main/MVP's)  |
-| Feira de Soluções | 18/06/2026 | A fazer  | [MVP]()  |
+| Feira de Soluções | 18/06/2026 | A fazer  | [MVP](https://github.com/FATECANT/API-1-Semestre/tree/main/Feira_de_solu%C3%A7%C3%B5es)  |
