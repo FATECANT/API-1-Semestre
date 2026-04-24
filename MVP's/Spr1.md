@@ -62,5 +62,6 @@
 ## 📂 Anexos / Evidências
 - Prints de tela  
 - Fluxos ou protótipos  
-- Vídeo (MVP)  
+- Vídeo (MVP)
+- Vídeo de Entendimento [Vídeo](https://drive.google.com/file/d/1ofDE4DWbN0kScPLIUgUK9WU5WoJSKGmA/view)  
 
