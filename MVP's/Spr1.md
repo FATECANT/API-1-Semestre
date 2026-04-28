@@ -1,24 +1,22 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - API 1 Logística
 
-## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+## 🎯 Objetivo do MVP  
+Desenvolver um dashboard através do PowerBI que permita a visualização dos dados de exportação e importação do estado de São Paulo e seus municípios. A plataforma permitirá uma comparação detalhada entre as cidades paulistas, centralizando essas informações para facilitar a visualização.
 
 ---
 
-## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+## 📝 Descrição da Solução  
+- Realizar o tratamento dos  dados do ComexStat de 2024 a 2025  
+- Por meio de um dashboard dinâmico no Power BI
+- Um
+dashboard que permita a
+visualização dos dados já tratados
+ 
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- O gestor público é o profissional responsável por planejar, coordenar e executar políticas e serviços públicos (saúde, educação, segurança) com eficiência e transparência
 
 ---
 
@@ -31,10 +29,15 @@
 ---
 
 ## 📅 Sprint(s) Relacionadas
-| Sprint | Entregas Principais                          | Status   |
-|--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+|Rank|Propriedade|User Story                                                                                                                                                                                                                                    |Sprint|Requisito do Parceiro |
+|----|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|----------------------|
+|1   |Alta       |Como gestor público, quero acessar os dados do ComexStat de 2024 a 2025 sobre as importações e exportações dos municípios do estado de São Paulo estruturados em um DataFrame.                                                                |1     |RN.P.1 RN.P.6         |
+|2   |Alta       |Como gestor público, quero que os dados sejam tratados no GoogleColab, através da linguagem de programação Python e a biblioteca Pandas, contendo a remoção de valores nulos e a padronização de nomes dos municípios.                                               |1     |RN.P.2 RN.P.6         |
+|3   |Alta       |Como gestor público, quero um dashboard que permita a filtragem por ano, trimestre, municípios, SH4, valor FOB e peso (KG).                                          |1     |RN.P.3 RN.P.5 RN.P.6  |
+|4   |Alta       |Como gestor público, quero que o backlog e as sprints sejam versionadas no GitHub para um melhor acompanhamento do desenvolvimento do projeto.                                                                                                |1     |RN.P.4 RN.P.6         |
+|#   |Urgente       |Como gestor público, quero um dashboard dinâmico no Power BI que tenha dois painéis, um para os dados de importação e outro para exportação.                                                                |1     | Não foi entregue |
+|#   |Urgente       |Como gestor público, quero um mapa interativo relacionando as importações e exportações, um ranking de municípios em gráfico de barras horizontais e um gráfico de rosca com a porcentagem dos produtos mais exportados/importados.                                              |1     | Não foi entregue |
+
 
 ---
 
