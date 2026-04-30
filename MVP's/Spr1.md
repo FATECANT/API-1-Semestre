@@ -42,16 +42,17 @@ visualização dos dados já tratados
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
+- O MVP deve permitir que o usuário acesse dados e conseguir filtrar os dados por municípios e ver a cotação do dolar.  
+- O sistema deve registrar os dados de exportação e importação.  
 - Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+| Backlog de Produto | Backlog de Sprint | Alocação de Tarefas | Documentação no GitHub | Apresentação (Review) | Conformidade Técnica | Total |
+|--------------------|------------------|----------------------|-------------------------|------------------------|-----------------------|-------|
+| 10%                | 10%              | 10%                  | 10%                     | 10%                    | 10%                   |       |
+| 4                  | 2                | 2                    | 2                       | 4                      | 2                     | 3,6   |  
 
 ---
 
