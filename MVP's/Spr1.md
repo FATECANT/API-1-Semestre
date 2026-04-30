@@ -21,14 +21,6 @@ visualização dos dados já tratados
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
-|-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
-
----
-
-## 📅 Sprint(s) Relacionadas
 |Rank|Propriedade|User Story                                                                                                                                                                                                                                    |Sprint|Requisito do Parceiro |
 |----|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|----------------------|
 |1   |Alta       |Como gestor público, quero acessar os dados do ComexStat de 2024 a 2025 sobre as importações e exportações dos municípios do estado de São Paulo estruturados em um DataFrame.                                                                |1     |RN.P.1 RN.P.6         |
@@ -38,6 +30,14 @@ visualização dos dados já tratados
 |#   |Urgente       |Como gestor público, quero um dashboard dinâmico no Power BI que tenha dois painéis, um para os dados de importação e outro para exportação.                                                                |1     | Não foi entregue |
 |#   |Urgente       |Como gestor público, quero um mapa interativo relacionando as importações e exportações, um ranking de municípios em gráfico de barras horizontais e um gráfico de rosca com a porcentagem dos produtos mais exportados/importados.                                              |1     | Não foi entregue |
 
+---
+
+## 📅 Sprint(s) Relacionadas
+|Sprint|            O que foi entregue                                                                                                                                                                                                                       |
+|----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|1   | uma apresentação em canva sobre o que foi e será realizado ao longo das sprints 
+
+                                                          
 
 ---
 
