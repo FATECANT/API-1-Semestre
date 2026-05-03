@@ -1,7 +1,7 @@
 # 📌 MVP - API 1 Logística
 
 ## 🎯 Objetivo do MVP  
-Desenvolver um dashboard através do PowerBI que permita a visualização dos dados de exportação e importação do estado de São Paulo e seus municípios. A plataforma permitirá uma comparação detalhada entre as cidades paulistas, centralizando essas informações para facilitar a visualização.
+Desenvolver um dashboard por meio do Power BI que permita a visualização dos dados de exportação e importação do estado de São Paulo e de seus municípios. A plataforma permitirá uma comparação detalhada entre as cidades paulistas, centralizando essas informações para facilitar a visualização.
 
 ---
 
@@ -42,9 +42,9 @@ visualização dos dados já tratados
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário acesse dados e conseguir filtrar os dados por municípios e ver a cotação do dolar.  
+- O projeto deve permitir que o usuário acesse dados e conseguir filtrar os dados por municípios e ver a cotação do dolar.  
 - O sistema deve registrar os dados de exportação e importação.  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- Métricas coletadas: Dados de exportação e importação.  
 
 ---
 
@@ -64,7 +64,7 @@ visualização dos dados já tratados
 ---
 
 ## 📂 Anexos / Evidências
-- [Protótipo do PowerBI](
+- 
 - [Código do Colab](https://colab.research.google.com/drive/1IhWYBs9Uk-eRn3Abh0j8FSR_QxOYdNL9#scrollTo=cb61be8e)
 - [Vídeo de Entendimento](https://drive.google.com/file/d/1ofDE4DWbN0kScPLIUgUK9WU5WoJSKGmA/view)  
 
