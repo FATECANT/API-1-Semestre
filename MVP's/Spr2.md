@@ -45,7 +45,7 @@ visualização dos dados já tratados
 - Métricas coletadas: Dados de exportação e importação. 
 ---
 
-## 📈 Métricas de Validação
+## 📈 Métricas de Avaliação
 - Número de usuários que testaram o MVP  
 - Feedback qualitativo (positivo/negativo)  
 - Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
