@@ -1,13 +1,5 @@
 # 📌 MVP - API 1 Logística
 
-# Índice
-* [Objetivo do projeto](#Objetivo-do-MVP)
-* [Equipe](#Equipe)
-* [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
-* [Backlog do produto](#Product-backlog)
-* [Registro das Sprints](#Registro-das-sprints)
-
-
 ## 🎯 Objetivo do MVP  
 Desenvolver um dashboard por meio do Power BI que permita a visualização dos dados de exportação e importação do estado de São Paulo e de seus municípios. A plataforma permitirá uma comparação detalhada entre as cidades paulistas, centralizando essas informações para facilitar a visualização.
 
