@@ -6,7 +6,6 @@ Desenvolver um dashboard por meio do Power BI que permita a visualização dos d
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.
 - Por meio de um dashboard dinâmico no Power BI
 - Um
 dashboard que permita a
