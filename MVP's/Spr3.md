@@ -23,11 +23,11 @@
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
-|-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
-
+|Rank|Propriedade|User Story                                                                                                                                                                                                                                    |Sprint|Requisito do Parceiro |
+|----|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|----------------------|
+|8  |Alta       |Como gestor público, quero visualizar o dashboard completo com todos os dados de importação e exportação de 2020 a 2025                                                                                                                       |3     |RN.P.3 RN.P.5 RN.P.6|
+|9  |Alta       |Como gestor público, quero um painel que mostre o balanço comercial do estado de São Paulo e seus municípios, com o valor das importações e exportações tanto em dólar quanto em real.                                                        |3     |RN.P.3 RN.P.5 RN.P.6|
+|10  |Baixa      |Como gestor público, quero uma aba de informações, que contenha notícias de acontecimentos que ocorreram nesse período que justifique o aumento ou declínio da compra ou venda de certo produto.                                              |3     |RN.P.3 RN.P.5 RN.P.6|
 ---
 
 ## 📅 Sprint(s) Relacionadas
