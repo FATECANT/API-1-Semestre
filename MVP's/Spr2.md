@@ -41,10 +41,9 @@ visualização dos dados já tratados
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
-
+- O projeto deve permitir que o usuário acesse dados e conseguir filtrar os dados por municípios e ver a cotação do dolar.  
+- O sistema deve registrar os dados de exportação e importação.  
+- Métricas coletadas: Dados de exportação e importação. 
 ---
 
 ## 📈 Métricas de Validação
