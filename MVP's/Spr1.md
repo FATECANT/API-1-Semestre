@@ -1,7 +1,7 @@
 # 📌 MVP - API 1 Logística
 
 # Índice
-* [ Objetivo do MVP](#Objetivo-do-MVP)
+* [Objetivo do MVP](#Objetivo-do-MVP)
 * [Descrição da Solução](#Descrição-da-Solução)
 * [Personas / Usuários-Alvo](#Personas-/-Usuários-Alvo)
 * [User Stories (Backlog do MVP)](#User-Stories-(Backlog-do-MVP))
