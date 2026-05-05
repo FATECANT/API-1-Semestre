@@ -14,7 +14,7 @@ visualização dos dados já tratados
 - Um dashboard dinâmico no Power BI que tenha dois painéis, um para os dados de importação e outro para exportação.
 - um mapa interativo relacionando as importações e exportações, um ranking de municípios em gráfico de barras horizontais e um gráfico de rosca com a porcentagem dos produtos mais exportados/importados.
 - Uma janela no canto superior esquerdo com a cotação do dólar que atualize conforme o período selecionado.
--  
+  
 
 ---
 
