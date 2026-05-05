@@ -14,8 +14,7 @@ Desenvolver um dashboard por meio do Power BI que permita a visualização dos d
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- O gestor público é o profissional responsável por planejar, coordenar e executar políticas e serviços públicos (saúde, educação, segurança) com eficiência e transparência
 
 ---
 
