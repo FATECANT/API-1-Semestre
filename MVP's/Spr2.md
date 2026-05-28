@@ -62,5 +62,3 @@ visualização dos dados já tratados
 ## 📂 Anexos / Evidências
 - [PowerBI](https://drive.google.com/drive/folders/1LnhVMR4chDxBY_o12A49C7jNT_95_yrG?usp=sharing)
 - [Protótipos](https://drive.google.com/drive/folders/1WGh9y7SB4MJz-q_02_JK4e87DwqMxmtj?usp=sharing)  
-- Vídeo (MVP)  
-
