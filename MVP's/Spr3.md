@@ -8,7 +8,7 @@ Desenvolver um dashboard por meio do Power BI que permita a visualização dos d
 
 ## 📝 Descrição da Solução
 - Como gestor público, quero visualizar o dashboard completo com todos os dados de importação e exportação de 2020 a 2025
--Como gestor público, quero um painel que mostre o balanço comercial do estado de São Paulo e seus municípios, com o valor das importações e exportações tanto em dólar quanto em real.
+- Como gestor público, quero um painel que mostre o balanço comercial do estado de São Paulo e seus municípios, com o valor das importações e exportações tanto em dólar quanto em real.
 
 ---
 
