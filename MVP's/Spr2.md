@@ -35,7 +35,7 @@ visualização dos dados já tratados
 ## 📅 Sprint(s) Relacionadas
 |Sprint|            O que foi entregue                                                                                                                                                                                                                       |
 |----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|2   | 
+|2   | Foi apresentado o dashboard para o cliente, com todos os requisitos sendo feitos.
 
 ---
 
