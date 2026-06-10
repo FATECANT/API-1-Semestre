@@ -1,10 +1,8 @@
 # 📌 MVP - API 1 Logística
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+Desenvolver um dashboard por meio do Power BI que permita a visualização dos dados de exportação e importação do estado de São Paulo e de seus municípios. A plataforma permitirá uma comparação detalhada entre as cidades paulistas, centralizando essas informações para facilitar a visualização.  
+
 
 ---
 
