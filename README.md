@@ -1,7 +1,7 @@
 # Assessoria Nacional de Tecnologia (ANT)
 
 <div align="center">
-<img src="https://github.com/lucasbarros8439/Teste-de-Markdown/blob/main/Logo%20da%20ANT.jpeg?raw=true" width="300px" />
+<img src="https://github.com/Lip0305/teste-markdown/blob/main/WhatsApp%20Image%202026-06-11%20at%2015.00.33.jpeg?raw=true" width="300px" />
 </div>
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
