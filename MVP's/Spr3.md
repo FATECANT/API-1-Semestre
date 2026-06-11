@@ -21,14 +21,13 @@ Desenvolver um dashboard por meio do Power BI que permita a visualização dos d
 |Rank|Propriedade|User Story                                                                                                                                                                                                                                    |Sprint|Requisito do Parceiro |
 |----|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|----------------------|
 |8  |Alta       |Como gestor público, quero visualizar o dashboard completo com todos os dados de importação e exportação de 2020 a 2025                                                                                                                       |3     |RN.P.3 RN.P.5 RN.P.6|
-|9  |Alta       |Como gestor público, quero um painel que mostre o balanço comercial do estado de São Paulo e seus municípios, com o valor das importações e exportações tanto em dólar quanto em real.                                                        |3     |RN.P.3 RN.P.5 RN.P.6|
-|10  |Baixa      |Como gestor público, quero uma aba de informações, que contenha notícias de acontecimentos que ocorreram nesse período que justifique o aumento ou declínio da compra ou venda de certo produto.                                              |3     |RN.P.3 RN.P.5 RN.P.6|
+|9  |Alta       |Como gestor público, quero um painel que mostre o balanço comercial do estado de São Paulo e seus municípios, com o valor das importações e exportações tanto em dólar quanto em real.                                                        |3     |RN.P.3 RN.P.5 RN.P.6|                                          
 ---
 
 ## 📅 Sprint(s) Relacionadas
 |Sprint|            O que foi entregue                                                                                                                                                                                                                       |
 |----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|3   |  
+|3   |  Um video no youtube contendo uma explicação sobre o projeto como um todo
 
 ---
 
@@ -36,13 +35,6 @@ Desenvolver um dashboard por meio do Power BI que permita a visualização dos d
 - O projeto deve permitir que o usuário acesse dados e conseguir filtrar os dados por municípios e ver a cotação do dolar.  
 - O sistema deve registrar os dados de exportação e importação.  
 - Métricas coletadas: Dados de exportação e importação. 
-
----
-
-## 📈 Métricas de Avaliação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
 
 ---
 
