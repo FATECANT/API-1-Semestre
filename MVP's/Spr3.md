@@ -48,3 +48,4 @@ Desenvolver um dashboard por meio do Power BI que permita a visualização dos d
 ## 📂 Anexos / Evidências
 - [PowerBI](https://drive.google.com/drive/folders/1LnhVMR4chDxBY_o12A49C7jNT_95_yrG?usp=sharing)
 - [Protótipos](https://drive.google.com/drive/folders/1WGh9y7SB4MJz-q_02_JK4e87DwqMxmtj?usp=sharing)
+- [Video](https://www.youtube.com/watch?v=MDl9A1flJIY)
